@@ -1,0 +1,26 @@
+.backImage {
+  height: 100vh;       
+  width: 100vw;   
+  background-image: url("/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/ai-small-1920.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;  
+  position: fixed;   
+}
+
+.SignUpForm {
+  height: auto;
+  width: 600px;
+  padding: 40px; /* ✅ Gives space inside the box */
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 2px solid black;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 0 30px black;
+  border-radius: 12px;
+  margin: 260px 0 0 700px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px; /* ✅ Space between all child elements */
+}
