@@ -1,7 +1,7 @@
 .backImage {
   height: 100vh;       
   width: 100vw;   
-  background-image: url("/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/ai-small-1920.jpg");
+  background-image: url("../assets/assets-20250706T054540Z-1-001/assets/ai-small-1920.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;  
