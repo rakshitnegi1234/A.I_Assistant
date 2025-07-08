@@ -1,9 +1,9 @@
 import React, { useContext, useEffect, useState, useRef } from "react";
 import { userDataContext } from "../Context/userContext";
 import { useNavigate } from "react-router-dom";
-import imageAI from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/AI technology product loading animation＃1.gif";
+import imageAI from "../assets/assets-20250706T054540Z-1-001/assets/AI technology product loading animation＃1.gif";
 
-import userwali from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/user.gif";
+import userwali from "../assets/assets-20250706T054540Z-1-001/assets/user.gif";
 
 function Home() {
   const { userData, serverUrl, setUserData, getGeminiResponse } =
