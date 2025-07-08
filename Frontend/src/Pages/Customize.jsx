@@ -4,12 +4,12 @@ import { FaImage } from "react-icons/fa";
 import { userDataContext } from "../Context/userContext";
 import { IoArrowBackOutline } from "react-icons/io5";
 
-import image1 from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/image1.png";
-import image2 from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/image2.jpg";
-import image4 from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/image4.png";
-import image5 from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/image5.png";
-import image6 from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/image6.jpeg";
-import image7 from "/home/rakshit/Documents/A.I_Assistant/Frontend/src/assets/assets-20250706T054540Z-1-001/assets/image7.jpeg";
+import image1 from "../assets/assets-20250706T054540Z-1-001/assets/image1.png";
+import image2 from "../assets/assets-20250706T054540Z-1-001/assets/image2.jpg";
+import image4 from "../assets/assets-20250706T054540Z-1-001/assets/image4.png";
+import image5 from "../assets/assets-20250706T054540Z-1-001/assets/image5.png";
+import image6 from "../assets/assets-20250706T054540Z-1-001/assets/image6.jpeg";
+import image7 from "../assets/assets-20250706T054540Z-1-001/assets/image7.jpeg";
 import { useNavigate } from "react-router-dom";
 
 function Customize() {
