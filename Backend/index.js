@@ -15,7 +15,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(cors(
     {
-        origin: "https://a-i-assistant-5.onrender.com",
+        origin: "https://a-i-assistant-1232.onrender.com",
         credentials:true
     }
 ));
