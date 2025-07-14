@@ -5,7 +5,7 @@ import axios from "axios";
 export const userDataContext = createContext();
 
 function UserProvider({ children }) {
-  const serverUrl = "https://a-i-assistant-2.onrender.com";
+  const serverUrl = "https://a-i-assistant-1.onrender.com";
 
   const [userData, setUserData] = useState(null);
   const [frontendImage, setFrontendImage] = useState(null);
